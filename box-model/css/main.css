@@ -1,0 +1,39 @@
+* {
+  box-sizing: border-box;
+  text-align: center;
+
+}
+.main {
+  width: 301px;
+  height: 463px;
+  margin: 49px 53px;
+  display: inline-block;
+  border: 2px solid #E8E8E8;
+
+}
+.h2 {
+  padding-top: 15px;
+  color:#212121;
+  
+}
+.price{
+  padding-top: 35px;
+  font-size: 48px;
+  padding-bottom: 49px;
+  color: #5BA2A9;
+}
+.p{
+  color:#454545;
+  text-align: center;
+  /* padding-top: 49px; */
+  margin-top: 30px;
+  width: 201px;
+  height: 114px;
+  margin-right: auto;
+  margin-left: auto;
+}
+.button {
+  color: #5A5A5A;
+  font-size: 16px;
+  padding: 14px 25px;
+}
