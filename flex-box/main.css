@@ -1,0 +1,33 @@
+* {
+  box-sizing: border-box;
+}
+.h2 {
+  text-align: center;
+  font-size: 30px;
+}
+.item-grid {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+
+  min-height: 380px;
+}
+.item {
+  width: 270px;
+  border: 2px solid #f6f7f8;
+  text-align: center;
+  min-height: 349px;
+}
+.h3 {
+  color: #262626;
+  font-size: 14px;
+}
+.price {
+  color: #ff4858;
+  font-size: 16px;
+}
+.price span {
+  color: #c1c8ce;
+  text-decoration: line-through;
+}
